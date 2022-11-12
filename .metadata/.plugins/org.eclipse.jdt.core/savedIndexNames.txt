@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+E:\Windsor\ASE\Lab-3\ASE-LAB-4\ASE_LAB_4\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2179848564.index
+984597508.index
+596023454.index
+3972176944.index
+3881997905.index
+1934099152.index
+1067094681.index
+2530436629.index
+1856889914.index
+1863111967.index
+1737510394.index
+1731684612.index
+3987367861.index
+1357659053.index
+1405455561.index
+340481022.index
+393191225.index
+630544451.index
